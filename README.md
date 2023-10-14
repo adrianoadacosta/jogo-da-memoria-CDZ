@@ -6,11 +6,11 @@ Jogo da memoria dos cavaleiros do zodiaco, utilzando tecnicas de criação de el
 
 ## Telas do jogo
 
-![Telas do jogo](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/CDZ%20memory%20game/pginicial.png)
+![Telas do jogo](https://github.com/adrianoadacosta/jogo-da-memoria-CDZ/blob/main/print%20readme/pginicial.png)
 
-![Telas do jogo](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/CDZ%20memory%20game/pgjogo.png)
+![Telas do jogo](https://github.com/adrianoadacosta/jogo-da-memoria-CDZ/blob/main/print%20readme/pgjogo.png)
 
-![Telas do jogo](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/CDZ%20memory%20game/jogando.png)
+![Telas do jogo](https://github.com/adrianoadacosta/jogo-da-memoria-CDZ/blob/main/print%20readme/jogando.png)
 
 # Tecnologias utilizadas
 - HTML
